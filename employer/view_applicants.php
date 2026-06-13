@@ -50,7 +50,7 @@ foreach ($applicants as $a) $counts[$a['status']]++;
 <title>View Applicants – JobBoard</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Syne:wght@700;800&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="../css/style.css">
+<link rel="stylesheet" href="../assets/css/style.css">
 <style>
 .filter-row { display:flex; gap:12px; align-items:center; margin-bottom:24px; flex-wrap:wrap; }
 .filter-row select { padding:10px 16px; background:var(--card); border:1px solid var(--border); border-radius:9px; color:var(--text); font-size:.88rem; font-family:'Inter',sans-serif; }
